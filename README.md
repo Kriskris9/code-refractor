@@ -1,3 +1,48 @@
+# Code Refractor
+
+## Description
+
+ Horiseon is a marketing company that provides a variety of services. This website provides more information on the services and describes the benefits of their services to potential clients. Clients can easily navigate through the website by clicking on the header elements. 
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this website, you can click on the navigational links on the top right side of the screen. When you click on each link it should navigate you to the selected selection. 
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -156,3 +201,22 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+# Horiseon Website
+
+## Description
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
